@@ -1,4 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&text=Welcome!%20OHRRRRR's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHRRRRR&show_icons=true&theme=radical)-->
 
 <!--
 **OHRRRRR/OHRRRRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
